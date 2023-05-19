@@ -8,4 +8,5 @@ Contact nmirzaei@umass.edu for any questions.
 
 If using any parts of this code please cite:
 
-TBA
+N. Mohammad Mirzaei, W. Hao, L. Shahriyari, Investigating the spatial interaction of immune cells in colon cancer, iScience, 2023; https://doi.org/10.1016/j.isci.2023.106596.
+
